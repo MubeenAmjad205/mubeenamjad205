@@ -159,3 +159,4 @@ I specialize in the intersection of **Generative AI** and **Production-Grade Eng
   <p><i>"Code is the medium. Intelligence is the goal."</i></p>
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100" style="opacity: 0.5;"/>
 </div>
+
